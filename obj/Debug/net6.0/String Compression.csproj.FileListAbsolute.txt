@@ -1,0 +1,15 @@
+D:\GitHubRepositories\StringCompression\String Compression\bin\Debug\net6.0\String Compression.exe
+D:\GitHubRepositories\StringCompression\String Compression\bin\Debug\net6.0\String Compression.deps.json
+D:\GitHubRepositories\StringCompression\String Compression\bin\Debug\net6.0\String Compression.runtimeconfig.json
+D:\GitHubRepositories\StringCompression\String Compression\bin\Debug\net6.0\String Compression.dll
+D:\GitHubRepositories\StringCompression\String Compression\bin\Debug\net6.0\String Compression.pdb
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.csproj.AssemblyReference.cache
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.AssemblyInfoInputs.cache
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.AssemblyInfo.cs
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.csproj.CoreCompileInputs.cache
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.dll
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\refint\String Compression.dll
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.pdb
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\String Compression.genruntimeconfig.cache
+D:\GitHubRepositories\StringCompression\String Compression\obj\Debug\net6.0\ref\String Compression.dll
