@@ -34,3 +34,28 @@ Constraints:
 
 1 <= chars.length <= 2000
 chars[i] is a lowercase English letter, uppercase English letter, digit, or symbol.
+
+# Explanation & Solution
+
+"String Compression Algorithm” or “Run Length Encoding” happens when you compress a string, and the consecutive duplicates of each string are replaced with the character, followed by the consecutive, repeated character count.
+
+For example:
+
+After string compression, the string “aaaabbcddddd” would return “a4b2c1d5”.
+
+You may not have see such strings in texts, but image and video files almost always have long repeating sequences. Some uses of run length encoding include:
+
+- Compressing faxed documents
+- Compressing JPEG images
+In case of images, colors are replaced by the character, or color, followed by the number of times that color repeats itself.
+
+Start by taking the first character of the given string and appending it to the compressed string.
+
+Next, count the number of occurrences of that specific character and append it to the compressed string.
+
+Repeat this process for all the characters until the end of the string is reached.
+
+Some run length encoding approaches also use an escape character before the count value. For example, if the file has some numeric character.
+
+With the escape character approach, the string compression of “aaaabbcddddd” would return “aa4bb2cdd5”.
+
